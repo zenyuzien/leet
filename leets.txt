@@ -1,11 +1,11 @@
 
 4/11/24
 https://leetcode.com/problems/median-of-two-sorted-arrays/description/
-R:0  S:0
+R:0  S:1
 
 6/11/24
 https://leetcode.com/problems/find-if-array-can-be-sorted/?envType=daily-question&envId=2024-11-06
-R:1  S:0
+R:1  S:1
 
 7/11/24
 https://leetcode.com/problems/basic-calculator/description/
@@ -22,3 +22,6 @@ R:0  S:0
 https://leetcode.com/problems/trapping-rain-water/
 R:0  S:0
 
+13/11/24
+https://leetcode.com/problems/candy/description/
+R:0  S:0
