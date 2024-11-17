@@ -29,3 +29,7 @@ R:0  S:0
 14/11/24
 https://leetcode.com/problems/valid-number/description/
 R:0  S:0
+
+17/11/14
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/?envType=daily-question&envId=2024-11-17
+R:0 S:1
